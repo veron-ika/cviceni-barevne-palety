@@ -1,2 +1,3 @@
-# barevne-palety
-Zadání projektu Barevné Palety
+# Barevné palety
+
+Zadání cvičeného projektu Barevné palety
